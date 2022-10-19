@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="imgs/scikitlearn_logo.png?raw=true" alt="scikitlearn_logo" width="200"/>
+  <img src="imgs/mindmap.png?raw=true" alt="mindmap_example" width="500"/>
+</p>
+
 # Machine learning concepts that you might want to learn
 
 ### About this repository
