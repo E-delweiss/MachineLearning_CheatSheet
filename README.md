@@ -27,7 +27,7 @@ I'm aware that everybody doesn't have the MindNode app so this repository contai
 ### Sources
 All the code that you will find in those files are taken from the MOOC "Machine learning in python with scikit-learn" by INRIA.
 Also, all the machine learning concepts, tips, and good practices come from the teachers and pedagogical team. \
-https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ 
+https://www.fun-mooc.fr/fr/cours/machine-learning-python-scikit-learn/ \
 https://scikit-learn.org/stable/
 
 ### Acknowledgements
